@@ -17,7 +17,7 @@ public class NewTest1 {
   @Test
   public void testcase2() {
 	  
-	  System.out.println("Testcase2");
+	  System.out.println("Inside Testcase2");
 	  
   }
   
