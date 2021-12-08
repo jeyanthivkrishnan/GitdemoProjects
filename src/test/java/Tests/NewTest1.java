@@ -14,6 +14,13 @@ public class NewTest1 {
 	  
   }
   
+  @Test
+  public void testcase2() {
+	  
+	  System.out.println("Testcase2");
+	  
+  }
+  
   @BeforeTest
   public void beforeTest() 
   {
