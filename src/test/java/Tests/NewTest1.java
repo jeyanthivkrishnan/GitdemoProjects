@@ -21,6 +21,13 @@ public class NewTest1 {
 	  
   }
   
+  @Test
+  public void testcase3() {
+	  
+	  System.out.println("Inside Testcase3");
+	  
+  }
+  
   @BeforeTest
   public void beforeTest() 
   {
